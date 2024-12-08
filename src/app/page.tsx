@@ -1,5 +1,3 @@
-import Image from "next/image";
-import LatestNews from "./components/card";
 import { promises as fs } from "fs";
 
 export default async function Home() {
