@@ -8,7 +8,7 @@ export function NavLinks() {
   const pathname = usePathname();
 
   useEffect(() => {
-    import("bootstrap/dist/js/bootstrap.bundle.min.js");
+    require("bootstrap/dist/js/bootstrap.bundle.min.js");
   }, []);
 
   return (
