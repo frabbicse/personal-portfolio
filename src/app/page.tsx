@@ -1,7 +1,6 @@
 import { promises as fs } from "fs";
 
 export default async function Home() {
-  const { news } = JSON.parse(await fs.readFile(process.cwd() + "/public/data/home/home.json", "utf8"));
   return (
     <div className="row mx-2">
       <div className="portfolio-header jumbotron jumbotron-fluid bg-light text-dark py-5">
