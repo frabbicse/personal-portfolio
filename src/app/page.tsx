@@ -1,5 +1,3 @@
-import { promises as fs } from "fs";
-
 export default async function Home() {
   return (
     <div className="row mx-2">
