@@ -42,8 +42,8 @@ jobs:
       # - name: Export Static Site 📦
       #   run: npm run export
 
-      - name: Verify Build Output
-        run: ls -al ./out
+      # - name: Verify Build Output
+      #   run: ls -al ./out
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
