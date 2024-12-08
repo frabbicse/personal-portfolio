@@ -3,7 +3,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   basePath: "/personal-portfolio",
-  output: "export",  // <=== enables static exports
+  output: "export",
+  trailingSlash: true,
   reactStrictMode: true,
 };
 
