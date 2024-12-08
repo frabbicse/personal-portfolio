@@ -1,0 +1,64 @@
+{
+  "education": [
+    {
+      "degree": "Master of Science(M.S.)",
+      "specialization": "Hydrogeology",
+      "institute": "Dhaka University",
+      "session": "2011-2012",
+      "passingyear": "2015",
+      "cgpa": "3.73/4.00",
+      "position": "2nd"
+    },
+    {
+      "degree": "Bachelor of Science(M.S.)",
+      "specialization": "Geology",
+      "institute": "Dhaka University",
+      "session": "2007-2008",
+      "passingyear": "2013",
+      "cgpa": "3.54/4.00",
+      "position": "4th"
+    }
+  ],
+
+  "profession": [
+    {
+      "designation": "Assistant Professor",
+      "duration": "April,2019 - Till now",
+      "workplace": "Department of Geology and Mining, Faculty of Science and Engineering, University of Barishal, Barishal 8254, Bangladesh."
+    },
+    {
+      "designation": "Lecturer",
+      "duration": "March 2016 to April 2019)",
+      "workplace": "Department of Geology and Mining, Faculty of Science and Engineering, University of Barishal, Barishal 8254, Bangladesh."
+    }
+  ],
+  "administration": [
+    {
+      "designation": "Chairman ",
+      "duration": "2021-31 December 2023",
+      "workplace": "Department of Geology and Mining, Faculty of Science and Engineering, University of Barishal, Barishal 8254, Bangladesh."
+    }
+  ],
+  "researchAssistant": [
+    {
+      "projectTitle": "Groundwater Resources in the Indo-Gangetic Basin: Resilience to Climate Change and Abstraction.   ",
+      "repsonsibility": [{ "item": "Installation of data loggers at various piezometers" }, { "item": "Downloading and processing of data from auto loggers" }, { "item": "Groundwater data collection and sampling" }],
+      "duration": "2013 to 2015",
+      "workplace": "Joint collaborative research project among the Department of Geology, D.U.; Department of Earth Sciences, University College London (U.C.L.) and the British Geological Survey (B.G.S.)."
+    },
+    {
+      "projectTitle": "Sustainable Arsenic Mitigation (SAsMit) in Matlab Upazila of Chandpur District.",
+      "repsonsibility": [{ "item": "Planning and collection of groundwater samples" }, { "item": "Measurement of arsenic and other on-site parameters" }, { "item": "Laboratory analysis of the water samples" }],
+      "duration": "April 2015 to June 2015",
+      "workplace": ": Action research project carried out jointly by Department of Geology, D.U. and Royal Institute of Technology (KTH), Stockholm, Sweden."
+    }
+  ],
+  "internship": [
+    {
+      "designation": "Intern Hydrogeologist",
+      "repsonsibility": [{ "item": "Collecting, digitizing, preparing and analyzing deep tube wells data in Dhaka city for geohydrological model (I.M.O.D.)" }, { "item": ") Interpretations of the collected data and model outputs." }, { "item": "Participating various training programs including I.M.O.D., Well developments, rehabilitations and reconstructions." }],
+      "duration": "September 2015 to 18 February 2016",
+      "workplace": "Water Operators Partnership (WOP) between Vitens Evides International (V.E.I.) and Dhaka Water Supply and Sewerage Authority (D.W.A.S.A.)."
+    }
+  ]
+}

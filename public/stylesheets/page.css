@@ -1,0 +1,38 @@
+.portfolio-header {
+  background: linear-gradient(135deg, #e3f2fd, #bbdefb); /* Subtle gradient for elegance */
+  color: #333;
+  padding: 60px 0;
+}
+
+.portfolio-header h1 {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.portfolio-header p {
+  margin-bottom: 15px;
+}
+
+.portfolio-header .contact-info a {
+  text-decoration: none;
+  color: #007bff; /* Primary color for links */
+}
+
+.portfolio-header .contact-info a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .portfolio-header {
+    text-align: center;
+    padding: 40px 20px;
+  }
+
+  .portfolio-header h1 {
+    font-size: 2rem;
+  }
+
+  .portfolio-header p {
+    font-size: 0.9rem;
+  }
+}
