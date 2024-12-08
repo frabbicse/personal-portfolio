@@ -1,10 +1,7 @@
 import { promises as fs } from "fs";
-import Card from "../components/card";
 
 export default async function Education() {
   const { education, profession, administration, researchAssistant, internship } = JSON.parse(await fs.readFile(process.cwd() + "/public/data/about/about.json", "utf8"));
-
-  console.log(researchAssistant);
 
   return (
     <div className="row mx-2">
