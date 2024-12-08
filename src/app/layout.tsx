@@ -19,11 +19,11 @@ export default function RootLayout({
       <body>
         <div className="offset-2 col-lg-8">
           <NavLinks />
-          <div className=" container-fluid offset-1 col-md-10 rounded-3 bg-light">
+          <div className=" container-fluid offset-1 col-md-10 rounded-3 bg-light mb-5">
             <main>{children}</main>
           </div>
         </div>
-        <footer className="footer offset-2 col-lg-8 py-1 sticky-bottom rounded-3" style={{ backgroundColor: "#f8f9fa" }}>
+        <footer className="footer offset-2 col-lg-8 py-1 fixed-bottom rounded-3 mt-5" style={{ backgroundColor: "#f8f9fa" }}>
           <p className="text-center text-muted">©Sukhen Goswami</p>
         </footer>
       </body>
